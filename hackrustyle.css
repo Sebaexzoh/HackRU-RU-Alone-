@@ -1,0 +1,545 @@
+.Titles{
+    font-size:65px;
+    text-align: center;
+}
+
+.Titles a{
+    color: black;
+    text-decoration:none;
+    padding: 5px 5px;
+    background: white;
+    border-style: outset;
+    border-color: black;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    font-family: 'Roboto' , sans-serif;
+}
+
+#Communities{
+    font-size: 35px;
+    text-align: center;
+    color: white;
+    font-family: 'Ariel',sans-serif; 
+}
+
+#WebpageTitle{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Roboto' , sans-serif;
+    color: white;
+}
+
+#MissionStatement{
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    font-family: 'Ariel',sans-serif; 
+}
+
+.opening-page p{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.firstpage{
+    background-image: url(classroom5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container{
+    height: 800px;
+    text-align: center;
+    top: 25px;
+    font-size: 30px;
+    font-family: 'Ariel',sans-serif; 
+}
+
+.container{
+    position: relative;
+    top: 30px;
+}
+#LearnMore{
+    text-align: center;
+    color: white;
+    background: black;
+    padding: 10px 40px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+#picture1{
+    width: 100px;
+    height: 75px;
+}
+.MainTitles{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Ariel',sans-serif; 
+    
+}
+.StressTitles{
+    text-align: left;
+    font-size: 35px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif;
+    margin-top: 15px; 
+    text-transform: uppercase;
+ }
+
+.stressText{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    color: black;
+    font-family: 'Ariel',sans-serif; 
+margin-top: 15px; 
+}
+
+.stressList{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+}
+
+#StressBody{
+    background-image: url(sb.JPEG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#DepressionBody{
+    background-image: url(db.JPEG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#AnxietyBody{
+    background-image: url(ab.JPEG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#ADHDBody{
+    background-image: url(adhdb.JPEG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#EDBody{
+    background-image: url(pink.JPEG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+#AddictionBody{
+    background-image: url(addb.JPEG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.CommunitiesPage{
+    background-image: url(brainscans.JPEG);
+    background-repeat: repeat-x repeat-y;
+}
+
+.sources{
+    text-align: center;
+    font-size: 30px;
+    color: black;
+    font-family: 'Ariel',sans-serif; 
+}
+
+.chatboard {
+    border: 2px solid black;
+    padding: 20px;
+    margin-top: 50px;
+    background-color: #F0F0F0;
+  }
+  
+  .chatinput {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .chatinput input[type=text] {
+    flex: 1;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    margin-right: 10px;
+  }
+  
+  .chatinput button {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+.DepressionTitles{
+    text-align: left;
+    font-size: 35px;
+    max-width: 1500px;
+    margin: 0 auto;
+font-family: 'Ariel',sans-serif; 
+margin-top: 15px; 
+text-transform: uppercase;
+}
+
+.DepressionText{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+}
+
+#hotline{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif;
+    margin-top: 15px;  
+}
+
+.DepressionList{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+}
+
+.AnxietyTitles{
+    text-align: left;
+    font-size: 35px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+margin-top: 15px; 
+text-transform: uppercase;
+}
+
+.AnxietyText{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif;
+    margin-top: 15px;  
+}
+
+.AnxietyList{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+}
+
+.AddictionTitles{
+    text-align: left;
+    font-size: 35px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+text-transform: uppercase;
+}
+
+.AddictionText{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+}
+
+.AddictionList{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+}
+
+.ADHDTitles{
+    text-align: left;
+    font-size: 35px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+text-transform: uppercase;
+}
+
+.ADHDText{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+}
+
+.ADHDList{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+}
+
+.EDTitles{
+    text-align: left;
+    font-size: 35px;
+    max-width: 1500px;
+    margin: 0 auto;
+font-family: 'Ariel',sans-serif; 
+margin-top: 15px; 
+text-transform: uppercase;
+}
+
+.EDText{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+}
+
+.EDList{
+    text-align: center;
+    font-size: 30px;
+    max-width: 1500px;
+    margin: 0 auto;
+    font-family: 'Ariel',sans-serif; 
+    margin-top: 15px; 
+}
+
+.question
+{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    font-family: 'Ariel',sans-serif; 
+}
+
+.navbar{
+    margin: 0;
+    padding: 0;
+    background: #CCC;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.navbar ul{
+    list-style: none;
+    background: #b90b6b;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.navbar li{
+   display: inline-block;
+}
+.navbar a{
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    display: block;
+    padding: 25px 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navbar a:hover{
+    background: rgb(252, 9, 159);
+}
+
+.navbarS{
+    margin: 0;
+    padding: 0;
+    background: #CCC;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.navbarS .ulS{
+    list-style: none;
+    background: #1d006e;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.navbarS li{
+   display: inline-block;
+}
+.navbarS a{
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    display: block;
+    padding: 25px 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navbarS a:hover{
+    background: rgb(21, 63, 253);
+}
+
+.navbarD{
+    margin: 0;
+    padding: 0;
+    background: #CCC;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.navbarD .ulD{
+    list-style: none;
+    background: #6007a8;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.navbarD li{
+   display: inline-block;
+}
+.navbarD a{
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    display: block;
+    padding: 25px 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navbarD a:hover{
+    background: rgb(140, 39, 255);
+}
+
+.navbarA{
+    margin: 0;
+    padding: 0;
+    background: #CCC;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.navbarA .ulA{
+    list-style: none;
+    background: #0d9620;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.navbarA li{
+   display: inline-block;
+}
+.navbarA a{
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    display: block;
+    padding: 25px 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navbarA a:hover{
+    background: rgb(33, 248, 62);
+}
+
+.navbarAdd{
+    margin: 0;
+    padding: 0;
+    background: #CCC;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.navbarAdd .ulAdd{
+    list-style: none;
+    background: #942020;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.navbarAdd li{
+   display: inline-block;
+}
+.navbarAdd a{
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    display: block;
+    padding: 25px 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navbarAdd a:hover{
+    background: rgb(255, 44, 37);
+}
+
+.navbarhd{
+    margin: 0;
+    padding: 0;
+    background: #CCC;
+    font-family: 'Roboto' , sans-serif;
+}
+
+.navbarhd .ulhd{
+    list-style: none;
+    background: #e49d1a;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.navbarhd li{
+   display: inline-block;
+}
+.navbarhd a{
+    text-decoration: none;
+    color: #fff;
+    width: 100px;
+    display: block;
+    padding: 25px 25px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navbarhd a:hover{
+    background: rgb(255, 153, 0);
+}
